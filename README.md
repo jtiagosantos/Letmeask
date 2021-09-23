@@ -28,6 +28,8 @@ This is a project developed during the **[Next Level Week Together](https://next
 
 :pushpin: React
 
+:pushpin: Sass
+
 :pushpin: Firebase
 
 <hr>
